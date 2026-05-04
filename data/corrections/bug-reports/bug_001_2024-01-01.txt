@@ -1,0 +1,23 @@
+Bug ID: BUG-001
+Reported By: System
+Date: 2024-01-01
+Severity: Low
+Status: Fixed
+
+Description:
+Sample bug report for demonstration purposes.
+
+Steps to Reproduce:
+1. N/A - This is a template example
+
+Expected Behavior:
+N/A
+
+Actual Behavior:
+N/A
+
+Screenshots/Logs:
+None
+
+Resolution:
+This is a sample bug report to demonstrate the folder structure.
